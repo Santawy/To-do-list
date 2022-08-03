@@ -1,0 +1,30 @@
+.container{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.todo-list > li > div{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+h1{
+    margin-bottom: 70px;
+}
+
+
+.btn-floating{
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.todo-form{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 60px;
+    width: 100%;
+    justify-content: space-between;
+}
